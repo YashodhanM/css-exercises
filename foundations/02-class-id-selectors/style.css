@@ -1,0 +1,20 @@
+.odd{
+    color: black;
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+.change-the-font-size{
+    background-color: lightpink;
+    font-size: 24px;
+}
+
+#two{
+    color: navy;
+    font-size: 36px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-weight: bold;
+}
